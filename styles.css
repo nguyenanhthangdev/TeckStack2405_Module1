@@ -1,0 +1,63 @@
+.carousel-inner .carousel-item img {
+  height: 650px;
+}
+
+.card img {
+  height: 200px;
+  width: 100%;
+}
+
+.carousel-inner .carousel-item img {
+  width: 100%;
+}
+
+img {
+  object-fit: cover;
+  display: block;
+}
+
+i {
+  background-color: black;
+  color: black;
+}
+
+.btn {
+  background-color: rgb(21, 199, 54);
+  color: white;
+}
+
+.btn:hover {
+  background-color: rgb(0, 159, 29);
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.post img {
+  width: 220px;
+  height: 170px;
+}
+
+.line {
+  width: 60px;
+  background-color: white;
+  height: 2px;
+}
+
+.color-main {
+  color: rgb(21, 199, 54);
+}
+
+.fa-facebook {
+  color: rgb(64, 88, 221);
+}
+
+.fa-twitter {
+  color: rgb(51, 197, 234);
+}
+
+.fa-instagram {
+  color: rgb(205, 32, 32);
+}
